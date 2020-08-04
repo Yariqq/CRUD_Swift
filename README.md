@@ -1,4 +1,4 @@
-# CRUD_Swift
+# CRUD_swift
 
 Весь функционал приложения показан в видео: https://www.youtube.com/watch?v=QSwvqW4_fh4
 
